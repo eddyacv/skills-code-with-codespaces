@@ -1,2 +1,2 @@
 apt-get update
-apt-get install -y sl
+apt-get install sl
